@@ -39,14 +39,14 @@ You can run the above command multiple times. Each time, a new run is created in
 ```
 mlflow ui
 ```
-Terminal will show link to open dashboard (most likely [http://127.0.0.1:5000`](http://127.0.0.1:5000)).
+Terminal will show link to open dashboard (most likely [http://127.0.0.1:5000`](http://127.0.0.1:5000)). Open the link.
 <img src="images/table.png" width="1000" style='border:1px solid #ff0a0a'>
 
-Click on any run to view it
+Click on any run to view it.
 
 <img src="images/single_experiment.png" width="1000" style='border:1px solid #ff0a0a'>
 
-Let's say you wan to plot the training plots (accuracy over epoch) for the different runs. You can also compare multiple experiments by selecting them and clicking compare. Then click on accuracy under metrics.
+Let's say you wan to plot the training plots (accuracy over epoch) for the different runs. You can compare multiple experiments by selecting them and clicking compare. Then click on accuracy under metrics.
 
 <img src="images/multiple_experiments.png" width="1000" style='border:1px solid #ff0a0a'>
 
